@@ -1,34 +1,40 @@
-# User Management Dashboard
+# 🧑‍💼 User Management Dashboard
 
-This User Management Dashboard Application is a Responsive Web Application built using React JS and Tailwind CSS, The Application consists of 2 Tabs, User Details and Account Creation
-The User Details tab will display user information fetched from a database (JSON File) in a searchable table format, allowing users to search for specific entries.
-The Account Creation tab will consist of a form for username and password input.
+A modern, responsive **User Management Dashboard** built with **React, Tailwind CSS, and Vite** ⚡.  
+This project provides a clean and intuitive interface for managing user data — including search, pagination, and detailed user reports.  
 
-Features
-1. Responsive
-2. User Friendly Design
-3. Functional and Clean Design
+---
 
-LightHouse Score
-1. Performance - 100
-2. Accessiblity - 100
-3. Best Practices - 100
-4. SEO - 91
+## 🚀 Features
 
+✨ **Key Highlights:**
+- 📋 Fetch and display user data dynamically using API integration  
+- 🔍 Search users by **username**, **email**, or **phone number**  
+- 📄 Pagination for smooth data navigation  
+- 🧑‍💻 View detailed user information in a modal popup  
+- 📊 Generate user reports (simulated)  
+- 🎨 Styled with **Tailwind CSS** for a modern, responsive UI  
+- ⚙️ Built using **React + Vite** for fast development and performance  
 
-Tech Stack Used:
-1. React JS
-2. Tailwind CSS
-3. Git
+---
 
-Hosting
-1. Netlify (https://user-mngmt-app.netlify.app/)
+## 🏗️ Tech Stack
 
-Installation
-1. Download Zip Code from the Github repositry
-2. Make Sure you have Node and Npm installed
-3. In the Project Folder type "npm install"
-4. After all the installation is completed run "npm run dev"
-5. Go to http://localhost:5173/ in browser to see the result
-   
-NOTE: THIS PROJECT USES VITE TO CREATE REACT APP , TO CREATE REACT APP USING VITE TYPE "npm create vite@latest"
+| Category | Technology |
+|-----------|-------------|
+| **Frontend Framework** | React (with Hooks) ⚛️ |
+| **Build Tool** | Vite ⚡ |
+| **Styling** | Tailwind CSS 💅 |
+| **Icons** | React Icons 🎨 |
+| **HTTP Client** | Axios 🌐 |
+| **Language** | JavaScript (ES6+) 🧠 |
+
+---
+
+## ⚙️ Installation and Setup
+
+Follow these steps to set up and run the project locally 👇
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/praneethakula99/User-Management-Dashboard.git
