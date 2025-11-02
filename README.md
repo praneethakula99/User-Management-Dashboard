@@ -38,3 +38,19 @@ Follow these steps to set up and run the project locally 👇
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/praneethakula99/User-Management-Dashboard.git
+2️⃣ Navigate into the Project Directory
+cd User-Management-Dashboard
+3️⃣ Install Dependencies
+npm install
+4️⃣ Start the Development Server
+npm run dev
+Now open http://localhost:5173/
+ in your browser 🌐
+🧩 Tech Stack
+⚛️ React.js
+🎨 Tailwind CSS
+⚡ Vite
+🌐 Axios
+💠 React Icons
+👨‍💻 Author
+Akula Venkata Sai Ram Praneeth
